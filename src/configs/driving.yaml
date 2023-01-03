@@ -1,0 +1,11 @@
+datasets:
+- CityScapes
+- BDD100K
+name: Driving
+num_classes: 19
+max_size:
+    train: 2726
+    val: 250
+    test: 500
+substract_background: True
+img_size: (720,1280)

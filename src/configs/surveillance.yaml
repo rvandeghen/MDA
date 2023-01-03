@@ -1,0 +1,13 @@
+datasets:
+- Drone
+- M-30-HD
+- RainSnow
+- Sherbrooke
+name: Surveillance
+num_classes: 4
+max_size:
+    train: 1299
+    val: 300
+    test: 300
+substract_background: False
+img_size: (720,1280)
