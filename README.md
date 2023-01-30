@@ -2,20 +2,20 @@
 
 <p align="center"><img src="assets/graphical_abstract.png" height="320" ></p>
 
-This repository contains the official implementation of the following paper: "Mixture Domain Adaptation to Improve Semantic Segmentation in Real-World Surveillance", which is presented at WACV 2023.  
+This repository contains the official implementation of the following paper: "Mixture Domain Adaptation to Improve Semantic Segmentation in Real-World Surveillance", which has been presented at WACV 2023. The paper can be found [here](https://openaccess.thecvf.com/content/WACV2023W/RWS/html/Pierard_Mixture_Domain_Adaptation_To_Improve_Semantic_Segmentation_in_Real-World_Surveillance_WACVW_2023_paper.html).
 
-
-## bibtex
-```
+```bibtex
 @inproceedings{Pierard2023Mixture,
     author    = {Pi\'erard, S\'ebastien and Cioppa, Anthony and Halin, Ana{\"\i}s and Vandeghen, Renaud and Zanella, Maxime and Macq, Beno{\^\i}t and Mahmoudi, Sa{\"\i}d and Van Droogenbroeck, Marc},
     title     = {Mixture Domain Adaptation To Improve Semantic Segmentation in Real-World Surveillance},
-    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
+    booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     month     = {January},
     year      = {2023},
     pages     = {22-31}
 }
 ```
+
+For more information about the content of the paper, check out our [presentation video](https://youtu.be/eU0HSLDaXWI) on YouTube. 
 
 ## Requirements
 ```
@@ -115,3 +115,8 @@ python main.py --path path_to_datasets
 * **Anaïs Halin**, University of Liège,
 * **Renaud Vandeghen**, University of Liège,
 * **Maxime Zanella**, University of Louvain-la-Neuve.
+
+See the [AUTHORS](https://github.com/rvandeghen/MDA/blob/main/AUTHORS) file for details.
+
+## License
+AGPL-3.0. See the [LICENSE](https://github.com/rvandeghen/MDA/blob/main/LICENSE) file for details.
