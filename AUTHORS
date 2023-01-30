@@ -28,7 +28,7 @@ To cite this repository, use the following bibtex entry:
 	author = {Pi{\'e}rard, S{\'e}bastien and Cioppa, Anthony and Halin, Ana{\"{\i}}s and Vandeghen, Renaud and Zanella, Maxime and Macq, Beno{\^{\i}}t and Mahmoudi, Sa{\"{\i}}d and Van Droogenbroeck, Marc},
 	booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
 	pages = {22-31},
-	month = Jan,
+	month = January,
 	year = {2023},
 	address = {Waikoloa, Hawaii, USA}
 }
