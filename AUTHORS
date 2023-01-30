@@ -1,0 +1,35 @@
+Copyright (c) 2023 holders: 
+
+- University of Liège (ULiège), Belgium.
+- Marc Van Droogenbroeck (M.VanDroogenbroeck@uliege.be), Professor at the University of Liège (ULiège).
+
+
+Code Contributing Author: 
+
+- Sébastien Piérard (s.pierard@uliege.be), University of Liège (ULiège), Montefiore Institute.
+- Anthony Cioppa (anthony.cioppa@uliege.be), University of Liège (ULiège), Montefiore Institute.
+- Anaïs Halin (anais.halin@uliege.be), University of Liège (ULiège), Montefiore Institute.
+- Renaud Vandeghen (r.vandeghen@uliege.be), University of Liège (ULiège), Montefiore Institute.
+- Maxime Zanella (maxime.zanella@uclouvain.be), University of Louvain-la-Neuve (UCLouvain), Institute of Information and Communication Technologies, Electronics and Applied Mathematics (ICTM).
+
+
+Special thanks for their supervision to:
+
+- Benoît Macq, University of Louvain (ULouvain).
+- Saïd Mahmoudi, University of Mons (UMons).
+- Marc Van Droogenbroeck, University of Liège (ULiège).
+
+
+To cite this repository, use the following bibtex entry:
+
+```bibtex
+@inproceedings{Pierard2023Mixture,
+	title = {Mixture Domain Adaptation to Improve Semantic Segmentation in Real-World Surveillance},
+	author = {Pi{\'e}rard, S{\'e}bastien and Cioppa, Anthony and Halin, Ana{\"{\i}}s and Vandeghen, Renaud and Zanella, Maxime and Macq, Beno{\^{\i}}t and Mahmoudi, Sa{\"{\i}}d and Van Droogenbroeck, Marc},
+	booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+	pages = {22-31},
+	month = Jan,
+	year = {2023},
+	address = {Waikoloa, Hawaii, USA}
+}
+```
